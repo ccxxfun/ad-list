@@ -1,2 +1,9 @@
+[Adblock Plus 2.0]
+! Title: ccxxfun-AD
+! 
+! Fix for MS Edge
+tieba.baidu.com###pagelet_entertainment-liveshow\/pagelet\/video_head
+! Start
+500px.com###hellobar
 ||https://file.7youxi.com/yeyou/new_swf/cnm198/bg.jpg
 ||https://cdn.51img3.com/game/2022/202202/20220215/cd4fa982a7b74697917274aabf1c6364.jpg
