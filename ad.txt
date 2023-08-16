@@ -9,7 +9,6 @@ tieba.baidu.com###pagelet_entertainment-liveshow\/pagelet\/video_head
 ||https://cdn.51img3.com/game/2022/202202/20220215/cd4fa982a7b74697917274aabf1c6364.jpg
 ||101.206.201.229:80^
 tcp://101.206.241.228:80
-tcp://
 ||open.e.kuaishou.cn^
 ||ali-ad.a.yximgs.com^
 ||comp.360os.com^
@@ -141,7 +140,6 @@ tcp://
 127.0.0.1 s3a.pstatp.com
 127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
 127.0.0.1 sf6-be-pack.pglstatp-toutiao.com
-||*.ad.*.com
 ||p6-webcast.douyinpic.com/img/webcast/user_grade_level_v5_21.png~tplv-obj.image$app=com.dragon.read
 ||p6-webcast.douyinpic.com/img/webcast/user_grade_level_v5_21.png~tplv-obj.image$app=com.dragon.read
 ||p6-webcast.douyinpic.com/img/webcast/fansclub_level_v6_7.png~tplv-obj.image$app=com.dragon.read
