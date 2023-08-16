@@ -64,7 +64,6 @@ tcp://101.206.241.228:80
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||101.206.201.229:80^
 tcp://101.206.241.228:80
-tcp://
 ||open.e.kuaishou.cn^
 ||ali-ad.a.yximgs.com^
 ||comp.360os.com^
